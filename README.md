@@ -10,4 +10,5 @@ Analysis of various types of weight loss surgeries in CA based on location along
  
  PowerBI Overveiw:
  
- <img src ="https://github.com/Kishp92/Bariatric-Surgeries-in-California-2005-2015-/blob/9b232018487484f897dd137c47aef1f3eea145ed/Example%20in%20Power%20Bi%202.jpg" />
+ <img src ="" />
+<img src ="https://github.com/Kishp92/Bariatric-Surgeries-in-California-2005-2015-/blob/3eda61836546d19ba1d9d1da46995fa435fe810d/Example%20in%20Power%20BI.jpg" />
